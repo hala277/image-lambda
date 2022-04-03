@@ -1,1 +1,10 @@
 # image-lambda
+
+[uploded img link](https://my-imageup-bucket.s3.us-east-1.amazonaws.com/Landscape.jpg?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEMz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJHMEUCIQDxdqmiK30axZ%2FQBStBViYZZTt8Zj402TYylj0AnbhmBQIgATZrrMiiDRDv9yb7aoXOiRQ9gbH5bj450f442Ui3ujYq8QIIZRABGgw1MzkxODU3MTYyOTUiDPWQbolKD%2FtTxCZqKSrOAgEkNy8ZLdrqN3oAvVXYPkfUVDDvgZNeJQqFEMgYmu2BnS22pB96V6Er%2B8OR2XAwe9Ha9gRNwh39pW4wVVncIcqug9Z6BBzUJrnZoInOO1T2SckK8SpddQaXZWBObqDTyrUodJ29%2FdmKv3wWFmDuTXDwYkPteg7wySlz7JFqF2EhO%2BuOBgLCvkvUIw7eiJaWHmG%2BPthwPlelM1E%2BEaj1of1o072GmNGbY0oy9esNPU2HlDt8grw6ZfhH3f8jnfb%2BqCS%2FCt37CHn57MV7m8rp3SyrWgiwEB%2FK3Z64RUJd6gCNFyOntKKXX1mV5h8K%2FF0e%2FvAh6sq43qJVNfa99%2Bm2TAkBCPhyjE9trvqTuCUTdMDWesLSGW935lOk72IReSadb%2B95fwjGM120chHzt0ooqdt1hIJ4srCa6hAs0QbQEyRzyRLXYFue1pPCFCIMt6Mw7fGnkgY6hwLmmQQM%2BCkUdDCcHHqb9x%2BHHAPbjdLnCLvWeuSYzqh8p%2FR9ROc2MHoqI7HzxGhOlSSCzjZbfCYMc4tTeZFRkOUHfhTTnc36Ksi3KkDkhXJkaaAny92WTCDBtSXxBLP6LZ125EbRYrgcLIdMv36huNgVhIrr%2Fh0EiwVBSacrWIH9whgoUkXgh6a1RUEnXDIqSj7mXUps%2BV5DzIb4g3KHDJTDXdqlibE%2BNSRnlGhCQ5wreA9FNomA53ZdzUx2r0p5uo18OHJZIMCKDsCuhGlXfbOZH%2FjIWXiAXtzig6JeD9OpOByMFmXUUP3UBhb7G%2FsgkCN5E9asfDOYsVbzFKgoUrKgZ5y0a7eAWw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220403T203255Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAX3CPZDRDR77YUZEO%2F20220403%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1f7800b1213d7803918c5b3feed6ebc99592e1aa4ca6bd70ea246e8391b5f2e5)
+
+## how its work
+
++ ![Access control list ](./img/accsess.png)
++ ![img](./img/imge.png)
++ ![log](./img/logOutput.png)
++ ![uplode](./img/uplodeImge.png)
